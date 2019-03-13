@@ -99,7 +99,7 @@ dog.name['Scout'] = [devMountainClassPet];
 // with NAMEPARAM being the name parameter being passed in
 
 // Code here
-function nameCheck(Steven){
+function nameCheck(name){
   if(name = Steven){
   return('What is up Steven?')
 }
